@@ -9,8 +9,7 @@ accountEmail = "hc.hc@gmail.com";
 accountPhone = "8287383174";
 accountCity = "Delhi";
 
-/* Modern practices of coding avoid using 'var' as 
-container due to the problem of functional scope or block scope */
+/* Modern practices of coding avoid using 'var' as container due to the problem of functional scope or block scope */
 
 console.log(accountId);
 console.table([accountId, accountEmail, accountPhone, accountCity]);
